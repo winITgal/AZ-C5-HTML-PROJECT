@@ -59,7 +59,7 @@ table {
 }
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("img/hero2.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("hero2.png");
   height: 650px;
   background-position: center;
   background-repeat: no-repeat;
@@ -125,7 +125,7 @@ p{
 	align-content: center;
 }
 #about-pic{
-	background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("img/about2.jpg");
+	background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("about2.jpg");
    min-height: 500px;
   max-width: 400px;
   background-position: ;
